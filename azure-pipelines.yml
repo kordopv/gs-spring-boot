@@ -74,3 +74,4 @@ stages:
               appType: webAppLinux
               appName: $(webAppName)
               package: '$(System.ArtifactsDirectory)/drop/**/target/*.?(war|jar)'
+© 2021 GitHub, Inc.
